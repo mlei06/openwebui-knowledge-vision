@@ -1,0 +1,5 @@
+# Test environment only; the deployed tool uses existing WebUI dependencies.
+pillow==13.0.0
+httpx==0.28.1
+pydantic==2.13.4
+python-pptx==1.0.2
